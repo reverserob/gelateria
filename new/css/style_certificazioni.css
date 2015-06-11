@@ -1,0 +1,22 @@
+
+#h1{margin:0 auto;
+color: #FC0;
+text-shadow:0px 0px 5px  burlywood;
+float:left;}
+
+#phpsection{
+	font-family: "Century Gothic", "Gill Sans MT", arial, verdana, sans-serif;
+	margin:0 auto;
+	width:800px;
+	text-align:center;
+	text-justify:auto;
+	}
+	#floatsection{float:left;}
+
+#table_cert {
+					border: 5px solid #000000;
+				}
+#td{
+	border: 5px solid #000000;
+
+}
